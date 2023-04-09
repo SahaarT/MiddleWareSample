@@ -1,6 +1,7 @@
 using MiddleWareSample;
 
 var builder = WebApplication.CreateBuilder(args);
+///////
 //builder.Services.AddTransient<CustomMiddleware>();
 //builder.Services.AddTransient<MyCustomMiddleware>();
 
